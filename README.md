@@ -1,4 +1,4 @@
-# vue-sell-cube
+# vue-sell-platform
 
 ## Project setup
 ```
